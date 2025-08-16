@@ -12,8 +12,8 @@ based on weather and time-related features.
 - CNN-LSTM
 
 ## 📈 Results
-- LSTM → RMSE: **372.32**, MAPE: **13.13%**
-- CNN-LSTM → RMSE: **389.31**, MAPE: **14.97%**
+LSTM Model → RMSE: 369.50, MAPE: 12.62%,R²: 0.9648
+CNN+LSTM Model → RMSE: 393.81, MAPE: 13.30%,R²: 0.9600
 
 ## 🚀 Future Work
 - Hyperparameter tuning
